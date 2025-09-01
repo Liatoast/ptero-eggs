@@ -1,4 +1,4 @@
-# Eggs Repository
+# Eggs Repository for Pterodactyl Panel
 
 ## Hinweis (Deutsch)
 
@@ -23,5 +23,3 @@ All rights, credits, and acknowledgements belong to the respective **original au
 ## Credits
 
 - Original eggs: [ParkerVCP / pelican-eggs](https://github.com/pelican-eggs/eggs)  
-- Modifications & adjustments: this repository  
-- Additional authors: see respective markings in files  
