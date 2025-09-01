@@ -26,7 +26,7 @@ All rights, credits, and acknowledgements belong to the respective **original au
 | Changes |
 |------|
 | Updated the Egg to DotNet 8 |
-| Fixed the Startup check |
+| Fixed the startup check |
 
 ---
 
