@@ -1,4 +1,4 @@
-# Eggs Repository for Pterodactyl Panel
+# Eggs Repository for the Pterodactyl Panel
 
 ## Hinweis (Deutsch)
 
@@ -20,7 +20,7 @@ All rights, credits, and acknowledgements belong to the respective **original au
 
 ---
 
-## Notes
+## Changes & Fixes
 **[vintagestory/vintagestory.egg](https://github.com/Liatoast/pterodactyl-eggs/blob/main/vintagestory/vintagestory.json)**
 
 | Fixes |
