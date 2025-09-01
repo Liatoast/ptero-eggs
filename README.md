@@ -20,13 +20,13 @@ All rights, credits, and acknowledgements belong to the respective **original au
 
 ---
 
-## Folders & Changes
-**[vintagestory/vintagestory.egg](https://github.com/Liatoast/toast-pterodactyl-eggs/blob/main/vintagestory/vintagestory.json)**
+## Notes
+**[vintagestory/vintagestory.egg](https://github.com/Liatoast/toasts-pterodactyl-eggs/blob/main/vintagestory/vintagestory.json)**
 
-| Changes |
+| Fixes |
 |------|
 | Updated the Egg to DotNet 8 |
-| Fixed the startup check |
+| Fixed the startup checker |
 
 ---
 
