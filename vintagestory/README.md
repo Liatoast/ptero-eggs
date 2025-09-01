@@ -1,7 +1,7 @@
 # NOTICE
 
-# For Version 1.21.0+, versions <=1.20 are **unsupported**!
-# Für die Version 1.21.0+, versionen <=1.20 sind **nicht** unterstützt! 
+# For versions 1.21.0+, versions <=1.20 are **unsupported**!
+# Für versionen 1.21.0+, versionen <=1.20 sind **nicht** unterstützt! 
 
 ## English
 This egg was created by **ParkerVCP** & **mail@wuffy.eu**.  
