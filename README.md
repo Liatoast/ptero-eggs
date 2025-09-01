@@ -21,7 +21,7 @@ All rights, credits, and acknowledgements belong to the respective **original au
 ---
 
 ## Notes
-**[vintagestory/vintagestory.egg](https://github.com/Liatoast/toasts-pterodactyl-eggs/blob/main/vintagestory/vintagestory.json)**
+**[vintagestory/vintagestory.egg](https://github.com/Liatoast/pterodactyl-eggs/blob/main/vintagestory/vintagestory.json)**
 
 | Fixes |
 |------|
