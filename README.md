@@ -21,7 +21,7 @@ All rights, credits, and acknowledgements belong to the respective **original au
 ---
 
 ## Changes & Fixes
-**[vintagestory/vintagestory.egg](https://github.com/Liatoast/pt-eggs/blob/main/vintagestory/vintagestory.json)**
+**[vintagestory/vintagestory.egg](https://github.com/Liatoast/ptero-eggs/blob/main/vintagestory/vintagestory.json)**
 
 | Fixes |
 |------|
